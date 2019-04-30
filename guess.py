@@ -1,3 +1,4 @@
+#final edition
 import random
 start = input('請輸入開始值:')
 end = input('請輸入結束值:')
